@@ -1,0 +1,3 @@
+/Users/andrea/Desktop/CLionProjects/10720665/cmake-build-debug/CMakeFiles/Assignment1_2024.dir
+/Users/andrea/Desktop/CLionProjects/10720665/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/andrea/Desktop/CLionProjects/10720665/cmake-build-debug/CMakeFiles/rebuild_cache.dir

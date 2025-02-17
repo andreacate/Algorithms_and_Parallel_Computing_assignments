@@ -1,0 +1,13 @@
+# ninja log v6
+7	587	1729839078665659429	CMakeFiles/Assignment1_2024.dir/inverse_power_iteration.cpp.o	f796d6ebbf4db319
+6	627	1729838908556592686	CMakeFiles/Assignment1_2024.dir/main.cpp.o	c8171271f0bff868
+2	775	1729838657955798170	CMakeFiles/Assignment1_2024.dir/vectorhelpers.cpp.o	81b7f6bf8103f82c
+2	819	1729838657955654802	CMakeFiles/Assignment1_2024.dir/squarematrix.cpp.o	a06dc6f8e6863620
+7	731	1729838866264651748	CMakeFiles/Assignment1_2024.dir/power_iteration.cpp.o	3a5a0f51fe119eb7
+2	775	1729838657955484311	CMakeFiles/Assignment1_2024.dir/matrixhelpers.cpp.o	1ddb9215fcbd14e5
+762	1143	1729838658715680670	CMakeFiles/Assignment1_2024.dir/shift_inverse_power_iteration.cpp.o	93be16519f03c29f
+587	685	1729839079245632949	Assignment1_2024	edfab31c3aed62c
+4	511	1729856133661137100	CMakeFiles/Assignment1_2024.dir/main.cpp.o	c8171271f0bff868
+511	641	1729856134168956009	Assignment1_2024	edfab31c3aed62c
+4	434	1729856137911512435	CMakeFiles/Assignment1_2024.dir/main.cpp.o	c8171271f0bff868
+434	467	1729856138341550634	Assignment1_2024	edfab31c3aed62c
